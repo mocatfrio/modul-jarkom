@@ -9,7 +9,9 @@
 
 ## 1. Setting DHCP Server
 
-![](img/architecture.png)
+<p align="center">
+  <img src="img/architecture.png" alt="architecture"/>
+</p>
 
 Buatlah setting DHCP Server dengan langkah-langkah sebagai berikut:
 
