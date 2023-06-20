@@ -2,20 +2,20 @@
 
 ## <a name='DaftarIsi'></a>Daftar Isi
 
-1. [Daftar isi](#DaftarIsi)
-2. [Persiapan](#Persiapan)
-3. [Langkah-langkah](#LangkahLangkah)
+- [Daftar isi](#DaftarIsi)
+- [Persiapan](#Persiapan)
+- [Langkah-langkah](#LangkahLangkah)
 
-   - [Setting WLAN pada MikroTik](#SettingWLANpadaMikroTik)
-   - [Setting DHCP Server pada MikroTik](#SettingDHCPServerpadaMikroTik)
-   - [Setting Komputer Client](#SettingKomputerClient)
-   - [Testing](#Testing)
+  - [Setting WLAN pada MikroTik](#SettingWLANpadaMikroTik)
+  - [Setting DHCP Server pada MikroTik](#SettingDHCPServerpadaMikroTik)
+  - [Setting Komputer Client](#SettingKomputerClient)
+  - [Testing](#Testing)
 
-4. [Masalah](#Masalah)
+- [Masalah](#Masalah)
 
-   - [WLAN **managed by CAPsMAN**](#WLANmanagedbyCAPsMAN)
-   - [Interface is slave](#InterfaceisSlave)
-   - [Hard Reset](#HardReset)
+  - [WLAN **managed by CAPsMAN**](#WLANmanagedbyCAPsMAN)
+  - [Interface is slave](#InterfaceisSlave)
+  - [Hard Reset](#HardReset)
 
 ## <a name='Persiapan'></a>Persiapan
 
