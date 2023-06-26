@@ -26,7 +26,7 @@ Buatlah setting DHCP Server dengan langkah-langkah sebagai berikut:
    ```
    Contoh : kelompok1_soal1
    ```
-   Upload ke xxx.
+   Upload ke https://drive.google.com/drive/folders/1tuYhAW78UChAejBg42CbCmOxxH3hOAdC?usp=sharing.
 
 ## 2. Setting Jaringan Hotspot
 
@@ -40,7 +40,7 @@ Buatlah setting jaringan Hotspot dengan ketentuan sebagai berikut:
    ```
    Contoh : kelompok1_soal2
    ```
-   Upload ke xxx.
+   Upload ke https://drive.google.com/drive/folders/18oB7jbvxOI2MPYxFiVEX4eSQppn4EhTc?usp=sharing.
 
 ## 3. Setting Routing Static dan Dynamic
 
@@ -55,3 +55,5 @@ Pengumpulan maksimal hari **Senin, 26 Juni 2023 pukul 23.59 WIB**.
 2. Lakukan setting routing dynamic menggunakan Cisco Packet Tracer dengan topologi jaringan dibawah ini.
 
    ![](img/routing_dynamic.png)
+
+Upload ke https://drive.google.com/drive/folders/1u3IJfp-arshEP5oVxN8bKaRpZDUJ_RF9?usp=sharing
